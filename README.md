@@ -53,4 +53,5 @@ Het eindresultaat is een werkende webapplicatie waarin bedrijven hun planning ef
 
 ## Auteur
 Appie Bakkouy , Loukman Bouhtala en Joul Lutfi.
+
 Opleiding Software Developer MBO 4
